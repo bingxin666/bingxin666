@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there｜你好
+
+Welcome, friends from afar｜欢迎，远道而来的朋友
 
 <!--
 **bingxin666/bingxin666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
