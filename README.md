@@ -2,6 +2,8 @@
 
 Welcome, friends from afar｜欢迎，远道而来的朋友
 
+没有什么技术，不过写写文章。
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bingxin666)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
